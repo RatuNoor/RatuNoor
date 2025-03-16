@@ -1,5 +1,5 @@
 # About Me:
-Data Science student at Airlanga University.<br>Currently working on my bachelor thesis about Kalman Filter and LSTM.<br>Looking for any Data Analyst/Scientist internship or freelancing jobs.<br><br>
+Data Science student at Airlanga University. Currently working on my bachelor thesis about Kalman Filter and LSTM. Looking for any Data Analyst/Scientist internship or freelancing jobs. Keen interest in Data Analysis, Data Mining, Data Visualization, Time Series Analysis, Spatial Data Analysis. Possesses a strong foundation in statistical data analysis, programming, and data management, with hands-on experience in various data science/analysis projects. Skilled in Python, R, SQL, Minitab and SPSS.  Adept at translating complex data into actionable insights and visual narratives to support data-driven decision-making. 
 
 
 ## Socials:
@@ -12,7 +12,7 @@ Data Science student at Airlanga University.<br>Currently working on my bachelor
 ![](https://nirzak-streak-stats.vercel.app/?user=RatuNoor&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RatuNoor&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
