@@ -1,5 +1,5 @@
 # About Me:
-Data Science student at Airlanga University. Currently working on my bachelor thesis about Kalman Filter and LSTM. Looking for any Data Analyst/Scientist internship or freelancing jobs. Keen interest in Data Analysis, Data Mining, Data Visualization, Time Series Analysis, Spatial Data Analysis. Possesses a strong foundation in statistical data analysis, programming, and data management, with hands-on experience in various data science/analysis projects. Skilled in Python, R, SQL, Minitab and SPSS.  Adept at translating complex data into actionable insights and visual narratives to support data-driven decision-making. 
+Data Science Tech fresh graduate at Airlanga University. Looking for any Data Analyst/Scientist internship or freelancing jobs. Keen interest in Data Analysis, Data Mining, Data Visualization, Time Series Analysis, Spatial Data Analysis. Possesses a strong foundation in statistical data analysis, programming, and data management, with hands-on experience in various data science/analysis projects. Skilled in Python, R, SQL, Minitab, SPSS, Power BI and Excel (VLOOKUP, HLOOKUP, XLOOKUP and Pivot Table).  Adept at translating complex data into actionable insights and visual narratives to support data-driven decision-making. 
 
 
 ## Socials:
